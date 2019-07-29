@@ -1,6 +1,7 @@
 # AcadgildB4-assignements
 session1-Q1-Q6
 Session 1 – Assignment -1 
+
 Task: 1
 1.	How many ways are there to call a function in R ?
 Answer: 
